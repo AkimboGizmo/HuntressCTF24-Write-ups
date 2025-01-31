@@ -16,7 +16,7 @@ Note: *To see the write-up as it was made, view the .md files in Obsidian*
 
 <h2>💻🕵️‍♂️These are my write-ups of some HuntressCTF24 Challenges that I completed!🕵️‍♂️💻</h2>
 
-<h2> Here is our team's Certificate of Completion of the Comp.</h2>
+<h2> We finished in the top 6% of teams! Here is our team's Certificate of Completion of the Comp.</h2>
 
 ![Huntress24TeamCert](https://github.com/user-attachments/assets/186ecb78-cced-498a-a34e-67ad25f08d75)
 
