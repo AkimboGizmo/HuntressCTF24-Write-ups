@@ -1,6 +1,9 @@
 <h1>Tim Z. | Huntress Capture the Flag 2024 Write-ups  </h1>
+
 The HuntressCTF Competition October 2024.
+
 ---
+
 Note: *To see the write-up as it was made, view the .md files in Obsidian*
 
 ![HuntressCTF24Banner](https://github.com/user-attachments/assets/2736beb6-77ca-4ac7-ac3e-a69ed6e6acaf)
